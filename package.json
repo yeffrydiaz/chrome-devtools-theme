@@ -1,0 +1,27 @@
+{
+    "author": "Yeffry Diaz",
+    "license": "ISC",
+    "name": "chrome-devtools-theme",
+    "displayName": "Chrome DevTools Theme",
+    "description": "Google Chrome Developers Tools Theme Like",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Chrome DevTools Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Chrome DevTools Theme-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon.png",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
