@@ -4,7 +4,8 @@
     "name": "chrome-devtools-theme",
     "displayName": "Chrome DevTools Theme",
     "description": "Google Chrome Developers Tools Theme Like",
-    "version": "0.0.1",
+    "version": "1.0.1",
+    "publisher": "smartlive",
     "engines": {
         "vscode": "^1.36.0"
     },
@@ -16,7 +17,7 @@
             {
                 "label": "Chrome DevTools Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Chrome DevTools Theme-color-theme.json"
+                "path": "./themes/dark-color-theme.json"
             }
         ]
     },
@@ -30,16 +31,15 @@
     },
     "keywords": [
         "dark",
-        "blue",
-        "spring",
+        "google",
+        "devtools",
         "visual",
         "studio",
-        "color",
-        "theme"
+        "developer",
+        "tools"
     ],
     "bugs": {
         "url": "https://github.com/yeffrydiaz/chrome-devtools-theme/issues"
     },
     "homepage": "https://github.com/yeffrydiaz/chrome-devtools-theme#readme"
-}
 }

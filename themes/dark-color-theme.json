@@ -2,7 +2,7 @@
 	"name": "Chrome DevTools Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#333",
+		"editor.background": "#242424",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#198edb",
 		"sideBarTitle.foreground": "#bbbbbb"
@@ -574,7 +574,7 @@
 				"markup.raw.block.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#8d8d8d50"
+				"foreground": "#55545450"
 			}
 		},
 		{
@@ -613,7 +613,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#65737E"
+				"foreground": "#242525"
 			}
 		},
 		{
