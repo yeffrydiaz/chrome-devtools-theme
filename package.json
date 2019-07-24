@@ -4,7 +4,7 @@
     "name": "chrome-devtools-theme",
     "displayName": "Chrome DevTools Theme",
     "description": "Google Chrome Developers Tools Theme Like",
-    "version": "1.0.1",
+    "version": "1.1.1",
     "publisher": "smartlive",
     "engines": {
         "vscode": "^1.36.0"
