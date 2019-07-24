@@ -4,7 +4,7 @@
 	"colors": {
 		"editor.background": "#242424",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#198edb",
+		"activityBarBadge.background": "#c9dfee",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
@@ -23,6 +23,7 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
+				"meta.tag",
 				"string constant.other.placeholder",
 			],
 			"settings": {
@@ -63,7 +64,6 @@
 			"name": "Operator, Misc",
 			"scope": [
 				"constant.other.color",
-				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
@@ -362,7 +362,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#53b2ff"
+				"foreground": "#e2ebf1"
 			}
 		},
 		{
